@@ -26,4 +26,6 @@ It was finally published online in 2020.
 The original hand drawings and idea were created by Rudy Matela in 2020-10-20 and 2020-10-31.
 The conversion into digital a 3d model was finished by [Edro] in 2019-11-11.
 
+This project is also available on Thingiverse: [Vinyl Wall Mount on Thingiverse](https://www.thingiverse.com/thing:4594110)
+
 [Edro](http://edro3d.com.br)
