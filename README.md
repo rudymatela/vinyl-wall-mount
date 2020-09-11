@@ -28,4 +28,4 @@ The conversion into digital a 3d model was finished by [Edro] in 2019-11-11.
 
 This project is also available on Thingiverse: [Vinyl Wall Mount on Thingiverse](https://www.thingiverse.com/thing:4594110)
 
-[Edro](http://edro3d.com.br)
+[Edro]: http://edro3d.com.br
