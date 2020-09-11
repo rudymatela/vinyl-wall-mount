@@ -3,7 +3,11 @@ Vinyl Wall Mount
 
 This project is a simple 3d printable Vinyl Wall Mount.
 
-![Vinyl Wall Mount](vinyl-wall-mount.svg)
+![Vinyl Wall Mount Diagram](vinyl-wall-mount.svg)
+
+![Vinyl Wall Mount on Wall](vinyl-wall-mount-0-sm.jpg)
+![Vinyl Wall Mount close-up (1)](vinyl-wall-mount-1-sm.jpg)
+![Vinyl Wall Mount close-up (2)](vinyl-wall-mount-2-sm.jpg)
 
 Copyright 2019 Rudy Matela, Some Rights Reserved
 
